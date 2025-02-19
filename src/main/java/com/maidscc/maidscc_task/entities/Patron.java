@@ -6,6 +6,7 @@ import lombok.*;
 @Entity
 @Table(name = "patrons")
 @Data
+@AllArgsConstructor
 public class Patron {
 
     @Id
