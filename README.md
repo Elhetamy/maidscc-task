@@ -1,5 +1,3 @@
----
-
 ## **Application Documentation**
 
 ### **1. Prerequisites**
